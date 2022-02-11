@@ -1,4 +1,4 @@
-import jdk.jshell.Diag;
+package com.vandenbreemen.common.diagnostics;
 
 import java.util.ArrayList;
 import java.util.Collections;

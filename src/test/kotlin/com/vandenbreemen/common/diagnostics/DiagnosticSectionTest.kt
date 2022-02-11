@@ -1,4 +1,5 @@
-import org.amshove.kluent.fail
+package com.vandenbreemen.common.diagnostics
+
 import org.amshove.kluent.shouldBeEqualTo
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.assertThrows
