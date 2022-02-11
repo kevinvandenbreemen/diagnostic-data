@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DiagnosticSectionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-02-11T22:10:22" hostname="the-monster" time="0.013">
-  <properties/>
-  <testcase name="should not allow modification of content()" classname="DiagnosticSectionTest" time="0.012"/>
-  <testcase name="should provide for accessing title and sections()" classname="DiagnosticSectionTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
