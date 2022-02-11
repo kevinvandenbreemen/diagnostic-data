@@ -6,7 +6,7 @@ import java.util.List;
 
 public class DiagnosticsData {
 
-    static class Builder {
+    public static class Builder {
 
         private DiagnosticsData data;
 

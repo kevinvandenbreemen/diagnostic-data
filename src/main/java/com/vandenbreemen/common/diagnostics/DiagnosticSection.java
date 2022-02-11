@@ -6,7 +6,7 @@ import java.util.List;
 
 public class DiagnosticSection {
 
-    static class Builder {
+    public static class Builder {
 
         private DiagnosticSection section;
 
